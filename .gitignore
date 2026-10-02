@@ -1,11 +1,16 @@
-### Java / Spring Boot ###
+# Java / Spring Boot
 target/
 *.class
+*.log
 
-### IntelliJ IDEA ###
+# IntelliJ IDEA
 .idea/
 *.iml
 
-### React ###
+# React
 student-frontend/node_modules/
 student-frontend/dist/
+
+# Operating system
+.DS_Store
+Thumbs.db
